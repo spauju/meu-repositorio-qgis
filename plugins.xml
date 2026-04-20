@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
     <pyqgis_plugin name="agricultura_precisao" version="1.3">
-        <description>Agricultura de precisao/description>
+        <description>Agricultura de precisao</description>
         <version>1.3</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>agricultura_precisao.zip</file_name>
