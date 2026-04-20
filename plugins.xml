@@ -1,9 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<plugins>
-    <pyqgis_plugin name="agricultura_precisao" version="1.2">
-        <description>Plugin para agricultura de precisao.</description>
-        <version>1.2</version>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>meu_plugin_v1.zip</file_name>
-        <author_name>PAULO VINICIUS DA SILVA</author_name>
-        <download_url>https://spauju.github.io/meu-repositorio-qgis/agricultura_precisao.zip</download_url>
