@@ -4,7 +4,7 @@
         <description>Plugin para agricultura de precisao.</description>
         <version>1.2</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>agricultura_precisao.zip</file_name>
-        <author_name>Seu Nome</author_name>
-        <download_url>https://spauju.github.io/meu-repositorio-qgis/
+        <file_name>agricultura de precisao</file_name>
+        <author_name>Paulo Vinicius</author_name>
+        <download_url>https://spauju.github.io/meu-repositorio-qgis/agricultura_precisao
 </plugins>
